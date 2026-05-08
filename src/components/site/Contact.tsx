@@ -35,7 +35,7 @@ export function Contact() {
                 <div>
                   <h3 className="font-display text-lg font-semibold">Adresă</h3>
                   <p className="mt-1 text-muted-foreground">
-                    Aleea Gării, nr. 336<br />
+                    Strada Gării, nr. 336<br />
                     Dârza, comuna Crevedia<br />
                     Dâmbovița, 137182
                   </p>
@@ -93,7 +93,7 @@ export function Contact() {
           <div className="lg:col-span-3 rounded-2xl overflow-hidden shadow-warm border border-border min-h-[500px]">
             <iframe
               title="Locația Pizzeria La Nae"
-              src="https://www.google.com/maps?q=Aleea+G%C4%83rii+336,+D%C3%A2rza,+Crevedia,+D%C3%A2mbovi%C8%9Ba&output=embed"
+              src="https://www.google.com/maps?q=Strada+G%C4%83rii+336,+D%C3%A2rza,+Crevedia,+D%C3%A2mbovi%C8%9Ba&output=embed"
               className="w-full h-full min-h-[500px] border-0"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
