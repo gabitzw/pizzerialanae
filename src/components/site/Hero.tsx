@@ -47,7 +47,7 @@ export function Hero() {
           <div className="mt-10 flex flex-wrap items-center gap-x-8 gap-y-3 text-sm text-cream/80">
             <span className="inline-flex items-center gap-2">
               <MapPin className="h-4 w-4 text-accent" />
-              Aleea Gării 336, Dârza, Dâmbovița
+              Strada Gării 336, Dârza, Dâmbovița
             </span>
             <span>Ma–Du · 11:00 – 20:00</span>
             <span>Livrare la domiciliu</span>
